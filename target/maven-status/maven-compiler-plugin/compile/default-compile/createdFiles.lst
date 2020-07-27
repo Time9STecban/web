@@ -1,0 +1,3 @@
+br\com\tecban\hacka\controller\DataController.class
+br\com\tecban\hacka\TecbanApplication.class
+br\com\tecban\hacka\config\SwaggerConfig.class

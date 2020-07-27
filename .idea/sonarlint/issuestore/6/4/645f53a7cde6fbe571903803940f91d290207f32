@@ -1,0 +1,16 @@
+
+m	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒŒ”Ì8×‹¬ä¸.
+m	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒŒ”Ì8×‹¬ä¸.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨³Õ·úÿÿÿÿ8¡Ö¬ä¸.
+r	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òú™£ÿÿÿÿÿ8¡Ö¬ä¸.
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öœé8¡Ö¬ä¸.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œîÆ8¡Ö¬ä¸.
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œîÆ8¡Ö¬ä¸.
+o	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òú™£ÿÿÿÿÿ8¡Ö¬ä¸.
+m	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒŒ”Ì8×‹¬ä¸.
+q	java:S116"URename this field "expires_in" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«¾ÜÃ8øªä¸.
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öœé8¡Ö¬ä¸.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òƒ“¨şÿÿÿÿ8¡Ö¬ä¸.
+q	java:S116"URename this field "token_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö›ÿ8øªä¸.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘±ˆÙÿÿÿÿÿ8¡Ö¬ä¸.
+s	java:S116"WRename this field "access_token" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µäøª8øªä¸.
